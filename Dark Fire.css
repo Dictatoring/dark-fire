@@ -1,1 +1,52 @@
-test
+#name {
+	border: 4px solid orange;
+	color: orange;
+	font-size: 90px;
+}
+#name:hover {
+	border: 6px solid orange;
+	color: orange;
+	font-size: 95px;
+}
+a {
+ color: orange;	
+}
+a:hover {
+ color: green;		
+}
+#block1 {
+	color: orange;
+	margin-top:30px;
+	margin-right: 1000px;
+	font-size: 20px;
+	border: 2px solid orange;
+}
+#block2 {
+	color: orange;
+    margin-top:2px;
+	margin-right: 1000px;
+	font-size: 20px;
+	border: 2px solid orange;
+}
+#block3 {
+	color: orange;
+	margin-top:-172px;
+	margin-left: 1000px;
+	font-size: 20px;
+	border: 2px solid orange;
+}
+#block4 {
+	color: orange;
+    margin-top:2px;
+	margin-left: 1000px;
+	font-size: 20px;
+	border: 2px solid orange;
+}
+#block5 {
+	color: orange;
+    margin-top:-142px;
+	margin-left: 270px;
+	margin-right: 270px;
+	font-size: 20px;
+	border: 2px solid orange;
+}
